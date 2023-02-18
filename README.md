@@ -1,6 +1,6 @@
 <h4 align="center"> 
   
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"/>, I'm Aman Sarraf</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"/>, I'm Devesh Parwani</h1>
  
  
 <img src="https://octodex.github.com/images/nyantocat.gif" width="100px" height="100px"></img> <br><br>
